@@ -1,0 +1,12 @@
+Nov 19, 2018 9:10:37 PM narzedzia.Wyrazenie <init>
+INFO: calc 3 4 +
+Nov 19, 2018 9:10:49 PM narzedzia.Wyrazenie <init>
+INFO: calc 3 r =
+Nov 19, 2018 9:11:08 PM narzedzia.Wyrazenie <init>
+INFO: calc 2 r + 4 *
+Nov 19, 2018 9:12:18 PM narzedzia.Wyrazenie <init>
+INFO: calc 3 4 +
+Nov 19, 2018 9:13:37 PM narzedzia.Wyrazenie <init>
+INFO: calc 2 5 + x =
+Nov 19, 2018 9:17:35 PM narzedzia.Wyrazenie <init>
+INFO: calc 2 7 *
